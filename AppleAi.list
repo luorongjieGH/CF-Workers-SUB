@@ -2,7 +2,6 @@
 # UPDATED: 2025-06-06 09:15:10
 # HOST: 6
 # HOST-WILDCARD: 1
-
 HOST,guzzoni.apple.com,AppleAi
 HOST-WILDCARD,*.smoot.apple.com,AppleAi
 HOST,apple-relay.cloudflare.com,AppleAi
