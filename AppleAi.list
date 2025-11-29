@@ -3,10 +3,10 @@
 # HOST: 6
 # HOST-WILDCARD: 1
 
-HOST,guzzoni.apple.com,AppleAi
-HOST-WILDCARD,*.smoot.apple.com,AppleAi
-HOST,apple-relay.cloudflare.com,AppleAi
-HOST,apple-relay.fastly-edge.com,AppleAi
-HOST,cp4.cloudflare.com,AppleAi
-HOST,apple-relay.apple.com,AppleAi
-HOST,gspe1-ssl.ls.apple.com,AppleAi
+HOST,guzzoni.apple.com
+HOST-WILDCARD,*.smoot.apple.com
+HOST,apple-relay.cloudflare.com
+HOST,apple-relay.fastly-edge.com
+HOST,cp4.cloudflare.com
+HOST,apple-relay.apple.com
+HOST,gspe1-ssl.ls.apple.com
