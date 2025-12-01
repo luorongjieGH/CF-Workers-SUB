@@ -2,10 +2,12 @@
 # UPDATED: 2025-06-06 09:15:10
 # HOST: 6
 # HOST-WILDCARD: 1
-HOST,guzzoni.apple.com,AppleAi
+HOST-SUFFIX,guzzoni.apple.com,AppleAi
 HOST-WILDCARD,*.smoot.apple.com,AppleAi
-HOST,apple-relay.cloudflare.com,AppleAi
-HOST,apple-relay.fastly-edge.com,AppleAi
-HOST,cp4.cloudflare.com,AppleAi
-HOST,apple-relay.apple.com,AppleAi
-HOST,gspe1-ssl.ls.apple.com,AppleAi
+HOST-SUFFIX,apple-relay.cloudflare.com,AppleAi
+HOST-SUFFIX,apple-relay.fastly-edge.com,AppleAi
+HOST-SUFFIX,cp4.cloudflare.com,AppleAi
+HOST-SUFFIX,apple-relay.apple.com,AppleAi
+HOST-SUFFIX,gspe1-ssl.ls.apple.com,AppleAi
+HOST-SUFFIX,play.google.com,AppleAi
+HOST-SUFFIX,clients6.google.com,AppleAi
