@@ -10,3 +10,5 @@ HOST,googleusercontent.com,Gemini
 HOST,android.googleapis.com,Gemini
 HOST,makersuite.google.com,Gemini
 HOST,play.googleapis.com,Gemini
+HOST,clients6.google.com,Gemini
+HOST,geller-pa.googleapis.com,Gemini
