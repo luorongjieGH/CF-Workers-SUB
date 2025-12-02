@@ -9,6 +9,3 @@ HOST,apple-relay.fastly-edge.com,AppleAi
 HOST,cp4.cloudflare.com,AppleAi
 HOST,apple-relay.apple.com,AppleAi
 HOST,gspe1-ssl.ls.apple.com,AppleAi
-HOST-SUFFIX,clients6.google.com,AppleAi
-HOST-SUFFIX,robinfrontend-pa.googleapis.com,AppleAi
-HOST-SUFFIX,geller-pa.googleapis.com,AppleAi
