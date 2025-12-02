@@ -12,3 +12,4 @@ HOST,makersuite.google.com,Gemini
 HOST,play.googleapis.com,Gemini
 HOST-SUFFIX,clients6.google.com,Gemini
 HOST,geller-pa.googleapis.com,Gemini
+HOST,app-analytics-services.com,Gemini
