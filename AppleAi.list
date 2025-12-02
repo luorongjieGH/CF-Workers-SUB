@@ -4,8 +4,12 @@
 # HOST-WILDCARD: 1
 HOST,guzzoni.apple.com,AppleAi
 HOST-WILDCARD,*.smoot.apple.com,AppleAi
+HOST,apple-relay.apple.com,AppleAi
 HOST,apple-relay.cloudflare.com,AppleAi
 HOST,apple-relay.fastly-edge.com,AppleAi
+HOST,apple-relay.akamaized.net,AppleAi
+HOST,apple-relay.mask.apple-dns.net,AppleAi
 HOST,cp4.cloudflare.com,AppleAi
-HOST,apple-relay.apple.com,AppleAi
 HOST,gspe1-ssl.ls.apple.com,AppleAi
+HOST,gateway.icloud.com,AppleAi
+HOST,smoot.apple.com,AppleAi
