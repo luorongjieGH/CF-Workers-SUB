@@ -1,0 +1,16 @@
+# AI Proxy Rules - Meta AI
+# Meta AI products (Meta AI chat, Llama).
+# https://github.com/VPSDance/ai-proxy-rules
+
+# Core
+HOST,ai.developer.meta.com,meta-ai
+HOST,ai.meta.com,meta-ai
+HOST,aidemos.meta.com,meta-ai
+HOST,developer.meta.com,meta-ai
+HOST,llama.developer.meta.com,meta-ai
+HOST-SUFFIX,atmeta.com,meta-ai
+HOST-SUFFIX,llama.com,meta-ai
+HOST-SUFFIX,llamameta.net,meta-ai
+HOST-SUFFIX,meta.ai,meta-ai
+HOST-SUFFIX,metaaivm.com,meta-ai
+HOST-SUFFIX,muse.ai,meta-ai
